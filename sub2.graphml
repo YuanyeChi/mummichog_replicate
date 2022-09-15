@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_statistics" for="node" attr.name="statistics" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_id">51</data>
+      <data key="v_label">AMP</data>
+      <data key="v_name">C00020</data>
+      <data key="v_statistics">0.89707700320942</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">218</data>
+      <data key="v_label">Hypoxanthine</data>
+      <data key="v_name">C00262</data>
+      <data key="v_statistics">1.39427652676782</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">435</data>
+      <data key="v_label">L-Phenylalanine</data>
+      <data key="v_name">C00079</data>
+      <data key="v_statistics">-0.764922984649889</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">594</data>
+      <data key="v_label">L-Arginine</data>
+      <data key="v_name">C00062</data>
+      <data key="v_statistics">-1.36772854608698</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">660</data>
+      <data key="v_label">dGMP</data>
+      <data key="v_name">C00362</data>
+      <data key="v_statistics">0.89707700320942</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">661</data>
+      <data key="v_label">L-Citrulline</data>
+      <data key="v_name">C00327</data>
+      <data key="v_statistics">1.6331653536839</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">978</data>
+      <data key="v_label">Inosine</data>
+      <data key="v_name">C00294</data>
+      <data key="v_statistics">1.62417892574802</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">1141</data>
+      <data key="v_label">dAMP</data>
+      <data key="v_name">C00360</data>
+      <data key="v_statistics">0.831869774280502</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">1146</data>
+      <data key="v_label">Adenine</data>
+      <data key="v_name">C00147</data>
+      <data key="v_statistics">0.746634198937579</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">1488</data>
+      <data key="v_label">dCMP</data>
+      <data key="v_name">C00239</data>
+      <data key="v_statistics">0.989004615698537</data>
+    </node>
+    <node id="n10">
+      <data key="v_id">2667</data>
+      <data key="v_label">13&apos;-carboxy-gama-tocotrienol</data>
+      <data key="v_name">CE7072</data>
+      <data key="v_statistics">0.88024177589548</data>
+    </node>
+    <edge source="n0" target="n1">
+    </edge>
+    <edge source="n0" target="n2">
+    </edge>
+    <edge source="n0" target="n3">
+    </edge>
+    <edge source="n0" target="n4">
+    </edge>
+    <edge source="n0" target="n5">
+    </edge>
+    <edge source="n3" target="n5">
+    </edge>
+    <edge source="n0" target="n6">
+    </edge>
+    <edge source="n1" target="n6">
+    </edge>
+    <edge source="n4" target="n6">
+    </edge>
+    <edge source="n0" target="n7">
+    </edge>
+    <edge source="n4" target="n7">
+    </edge>
+    <edge source="n6" target="n7">
+    </edge>
+    <edge source="n0" target="n8">
+    </edge>
+    <edge source="n1" target="n8">
+    </edge>
+    <edge source="n6" target="n8">
+    </edge>
+    <edge source="n0" target="n9">
+    </edge>
+    <edge source="n4" target="n9">
+    </edge>
+    <edge source="n6" target="n9">
+    </edge>
+    <edge source="n7" target="n9">
+    </edge>
+    <edge source="n0" target="n10">
+    </edge>
+  </graph>
+</graphml>

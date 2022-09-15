@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_statistics" for="node" attr.name="statistics" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_id">202</data>
+      <data key="v_label">L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate</data>
+      <data key="v_name">C00025</data>
+      <data key="v_statistics">0.905256048748451</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">385</data>
+      <data key="v_label">Glutathione; 5-L-Glutamyl-L-cysteinylglycine; N-(N-gamma-L-Glutamyl-L-cysteinyl)glycine; gamma-L-Glutamyl-L-cysteinyl-glycine; GSH; Reduced glutathione</data>
+      <data key="v_name">C00051</data>
+      <data key="v_statistics">-1.32180548385754</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">868</data>
+      <data key="v_label">Glutathione disulfide; GSSG; Oxiglutatione; Oxidized glutathione</data>
+      <data key="v_name">C00127</data>
+      <data key="v_statistics">-1.28239550474253</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">1015</data>
+      <data key="v_label">(5-L-Glutamyl)-L-amino acid; L-gamma-Glutamyl-L-amino acid</data>
+      <data key="v_name">C03740</data>
+      <data key="v_statistics">0.984077033902831</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">1421</data>
+      <data key="v_label">D-Glucosamine 6-phosphate; D-Glucosamine phosphate</data>
+      <data key="v_name">C00352</data>
+      <data key="v_statistics">1.04883008652835</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">1527</data>
+      <data key="v_label">L-Cystine; L-Dicysteine; L-alpha-Diamino-beta-dithiolactic acid</data>
+      <data key="v_name">C00491</data>
+      <data key="v_statistics">0.716837723299524</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">2191</data>
+      <data key="v_label">D-Galactosamine 6-phosphate</data>
+      <data key="v_name">C06377</data>
+      <data key="v_statistics">1.04883008652835</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">2283</data>
+      <data key="v_label">N-Formyl-L-glutamate</data>
+      <data key="v_name">C01045</data>
+      <data key="v_statistics">1.01745072951054</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">2719</data>
+      <data key="v_label">Dihydropteroate; 7,8-Dihydropteroate</data>
+      <data key="v_name">C00921</data>
+      <data key="v_statistics">-0.8055008581584</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">2743</data>
+      <data key="v_label">(R)-Lactate; D-Lactate; D-Lactic acid; D-2-Hydroxypropanoic acid; D-2-Hydroxypropionic acid</data>
+      <data key="v_name">C00256</data>
+      <data key="v_statistics">1.55169391512722</data>
+    </node>
+    <edge source="n0" target="n1">
+    </edge>
+    <edge source="n1" target="n2">
+    </edge>
+    <edge source="n1" target="n3">
+    </edge>
+    <edge source="n0" target="n4">
+    </edge>
+    <edge source="n1" target="n5">
+    </edge>
+    <edge source="n2" target="n5">
+    </edge>
+    <edge source="n4" target="n6">
+    </edge>
+    <edge source="n0" target="n7">
+    </edge>
+    <edge source="n0" target="n8">
+    </edge>
+    <edge source="n1" target="n9">
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_statistics" for="node" attr.name="statistics" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">C00718</data>
+      <data key="v_label">Amylose</data>
+      <data key="v_statistics">-0.795880017344075</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">C00267</data>
+      <data key="v_label">alpha-D-Glucose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">C02052</data>
+      <data key="v_label">Maltotetraose</data>
+      <data key="v_statistics">0.757396028793024</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">C05796</data>
+      <data key="v_label">Galactan</data>
+      <data key="v_statistics">-0.795880017344075</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">C01582</data>
+      <data key="v_label">Galactose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">C00124</data>
+      <data key="v_label">D-Galactose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">C02336</data>
+      <data key="v_label">beta-D-Fructose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">C00221</data>
+      <data key="v_label">beta-D-Glucose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">C00020</data>
+      <data key="v_label">AMP</data>
+      <data key="v_statistics">0.89707700320942</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">C00062</data>
+      <data key="v_label">L-Arginine</data>
+      <data key="v_statistics">-1.36772854608698</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">C00025</data>
+      <data key="v_label">L-Glutamate</data>
+      <data key="v_statistics">0.905256048748451</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">C00262</data>
+      <data key="v_label">Hypoxanthine</data>
+      <data key="v_statistics">1.39427652676782</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">C00147</data>
+      <data key="v_label">Adenine</data>
+      <data key="v_statistics">0.746634198937579</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">C00031</data>
+      <data key="v_label">D-Glucose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">C00360</data>
+      <data key="v_label">dAMP</data>
+      <data key="v_statistics">0.831869774280502</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">C00327</data>
+      <data key="v_label">L-Citrulline</data>
+      <data key="v_statistics">1.6331653536839</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">C00294</data>
+      <data key="v_label">Inosine</data>
+      <data key="v_statistics">1.62417892574802</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">C00362</data>
+      <data key="v_label">dGMP</data>
+      <data key="v_statistics">0.89707700320942</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">C00239</data>
+      <data key="v_label">dCMP</data>
+      <data key="v_statistics">0.989004615698537</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">C00079</data>
+      <data key="v_label">L-Phenylalanine</data>
+      <data key="v_statistics">-0.764922984649889</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">CE7072</data>
+      <data key="v_label">13&apos;-carboxy-gama-tocotrienol</data>
+      <data key="v_statistics">0.88024177589548</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">C02934</data>
+      <data key="v_label">3-Dehydrosphinganine</data>
+      <data key="v_statistics">-0.738780558484369</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">C00836</data>
+      <data key="v_label">Sphinganine</data>
+      <data key="v_statistics">-0.821513528404773</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">C01045</data>
+      <data key="v_label">N-Formyl-L-glutamate</data>
+      <data key="v_statistics">1.01745072951054</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">C00921</data>
+      <data key="v_label">Dihydropteroate</data>
+      <data key="v_statistics">-0.8055008581584</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">C00352</data>
+      <data key="v_label">D-Glucosamine 6-phosphate</data>
+      <data key="v_statistics">1.04883008652835</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">C00051</data>
+      <data key="v_label">Glutathione</data>
+      <data key="v_statistics">-1.32180548385754</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">C00319</data>
+      <data key="v_label">Sphingosine</data>
+      <data key="v_statistics">-0.738780558484369</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">C00159</data>
+      <data key="v_label">D-Mannose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">C01613</data>
+      <data key="v_label">Stachyose</data>
+      <data key="v_statistics">0.757396028793024</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">C00137</data>
+      <data key="v_label">myo-Inositol</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">C00127</data>
+      <data key="v_label">Glutathione disulfide</data>
+      <data key="v_statistics">-1.28239550474253</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">C03740</data>
+      <data key="v_label">(5-L-Glutamyl)-L-amino acid</data>
+      <data key="v_statistics">0.984077033902831</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">C00256</data>
+      <data key="v_label">(R)-Lactate</data>
+      <data key="v_statistics">1.55169391512722</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">C00491</data>
+      <data key="v_label">L-Cystine</data>
+      <data key="v_statistics">0.716837723299524</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">C00095</data>
+      <data key="v_label">D-Fructose</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">C00140</data>
+      <data key="v_label">N-Acetyl-D-glucosamine</data>
+      <data key="v_statistics">-0.827369273053825</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">C00645</data>
+      <data key="v_label">N-Acetyl-D-mannosamine</data>
+      <data key="v_statistics">-0.827369273053825</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">C01132</data>
+      <data key="v_label">N-Acetyl-D-galactosamine</data>
+      <data key="v_statistics">-0.827369273053825</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">C00074</data>
+      <data key="v_label">Phosphoenolpyruvate</data>
+      <data key="v_statistics">0.715167357848458</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">C05839</data>
+      <data key="v_label">cis-beta-D-Glucosyl-2-hydroxycinnamate</data>
+      <data key="v_statistics">-0.885361220031512</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">C00170</data>
+      <data key="v_label">5&apos;-Methylthioadenosine</data>
+      <data key="v_statistics">-0.829946695941636</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">C00315</data>
+      <data key="v_label">Spermidine</data>
+      <data key="v_statistics">0.809559714635268</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">C00612</data>
+      <data key="v_label">N1-Acetylspermidine</data>
+      <data key="v_statistics">1.5556988947189</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">C06377</data>
+      <data key="v_label">D-Galactosamine 6-phosphate</data>
+      <data key="v_statistics">1.04883008652835</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">CE5586</data>
+      <data key="v_label">dehydrospermidine</data>
+      <data key="v_statistics">0.809559714635268</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">C01029</data>
+      <data key="v_label">N8-Acetylspermidine</data>
+      <data key="v_statistics">1.5556988947189</data>
+    </node>
+    <edge source="n0" target="n1">
+    </edge>
+    <edge source="n1" target="n2">
+    </edge>
+    <edge source="n1" target="n3">
+    </edge>
+    <edge source="n1" target="n4">
+    </edge>
+    <edge source="n3" target="n4">
+    </edge>
+    <edge source="n1" target="n5">
+    </edge>
+    <edge source="n3" target="n5">
+    </edge>
+    <edge source="n4" target="n5">
+    </edge>
+    <edge source="n1" target="n6">
+    </edge>
+    <edge source="n1" target="n7">
+    </edge>
+    <edge source="n3" target="n7">
+    </edge>
+    <edge source="n4" target="n7">
+    </edge>
+    <edge source="n5" target="n7">
+    </edge>
+    <edge source="n8" target="n9">
+    </edge>
+    <edge source="n8" target="n10">
+    </edge>
+    <edge source="n8" target="n11">
+    </edge>
+    <edge source="n8" target="n12">
+    </edge>
+    <edge source="n11" target="n12">
+    </edge>
+    <edge source="n5" target="n13">
+    </edge>
+    <edge source="n8" target="n13">
+    </edge>
+    <edge source="n8" target="n14">
+    </edge>
+    <edge source="n8" target="n15">
+    </edge>
+    <edge source="n9" target="n15">
+    </edge>
+    <edge source="n8" target="n16">
+    </edge>
+    <edge source="n11" target="n16">
+    </edge>
+    <edge source="n12" target="n16">
+    </edge>
+    <edge source="n14" target="n16">
+    </edge>
+    <edge source="n8" target="n17">
+    </edge>
+    <edge source="n14" target="n17">
+    </edge>
+    <edge source="n16" target="n17">
+    </edge>
+    <edge source="n8" target="n18">
+    </edge>
+    <edge source="n14" target="n18">
+    </edge>
+    <edge source="n16" target="n18">
+    </edge>
+    <edge source="n17" target="n18">
+    </edge>
+    <edge source="n8" target="n19">
+    </edge>
+    <edge source="n10" target="n19">
+    </edge>
+    <edge source="n8" target="n20">
+    </edge>
+    <edge source="n21" target="n22">
+    </edge>
+    <edge source="n10" target="n23">
+    </edge>
+    <edge source="n10" target="n24">
+    </edge>
+    <edge source="n10" target="n25">
+    </edge>
+    <edge source="n10" target="n26">
+    </edge>
+    <edge source="n5" target="n27">
+    </edge>
+    <edge source="n22" target="n27">
+    </edge>
+    <edge source="n5" target="n28">
+    </edge>
+    <edge source="n13" target="n28">
+    </edge>
+    <edge source="n5" target="n29">
+    </edge>
+    <edge source="n13" target="n29">
+    </edge>
+    <edge source="n28" target="n29">
+    </edge>
+    <edge source="n5" target="n30">
+    </edge>
+    <edge source="n13" target="n30">
+    </edge>
+    <edge source="n28" target="n30">
+    </edge>
+    <edge source="n29" target="n30">
+    </edge>
+    <edge source="n26" target="n31">
+    </edge>
+    <edge source="n26" target="n32">
+    </edge>
+    <edge source="n26" target="n33">
+    </edge>
+    <edge source="n26" target="n34">
+    </edge>
+    <edge source="n31" target="n34">
+    </edge>
+    <edge source="n13" target="n35">
+    </edge>
+    <edge source="n28" target="n36">
+    </edge>
+    <edge source="n36" target="n37">
+    </edge>
+    <edge source="n36" target="n38">
+    </edge>
+    <edge source="n37" target="n39">
+    </edge>
+    <edge source="n13" target="n40">
+    </edge>
+    <edge source="n12" target="n41">
+    </edge>
+    <edge source="n41" target="n42">
+    </edge>
+    <edge source="n42" target="n43">
+    </edge>
+    <edge source="n25" target="n44">
+    </edge>
+    <edge source="n42" target="n45">
+    </edge>
+    <edge source="n42" target="n46">
+    </edge>
+  </graph>
+</graphml>

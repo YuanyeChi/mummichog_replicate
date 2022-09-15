@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_statistics" for="node" attr.name="statistics" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_id">312</data>
+      <data key="v_label">myo-Inositol; D-myo-Inositol; 1D-myo-Inositol; L-myo-Inositol; 1L-myo-Inositol; meso-Inositol; Inositol; Dambose; Cyclohexitol; Meat sugar; Bios I</data>
+      <data key="v_name">C00137</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">458</data>
+      <data key="v_label">D-Fructose; Levulose; Fruit sugar; D-arabino-Hexulose</data>
+      <data key="v_name">C00095</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">541</data>
+      <data key="v_label">N-Acetyl-D-glucosamine; N-Acetylchitosamine; 2-Acetamido-2-deoxy-D-glucose; GlcNAc</data>
+      <data key="v_name">C00140</data>
+      <data key="v_statistics">-0.827369273053825</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">778</data>
+      <data key="v_label">D-Mannose; Mannose; Seminose; Carubinose</data>
+      <data key="v_name">C00159</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">844</data>
+      <data key="v_label">D-Glucose; Grape sugar; Dextrose</data>
+      <data key="v_name">C00031</data>
+      <data key="v_statistics">-0.848804701051804</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">915</data>
+      <data key="v_label">N-Acetyl-D-galactosamine; N-Acetyl-D-chondrosamine; 2-Acetamido-2-deoxy-D-galactose</data>
+      <data key="v_name">C01132</data>
+      <data key="v_statistics">-0.827369273053825</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">1406</data>
+      <data key="v_label">cis-beta-D-Glucosyl-2-hydroxycinnamate; beta-D-Glucosyl-2-coumarinate</data>
+      <data key="v_name">C05839</data>
+      <data key="v_statistics">-0.885361220031512</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">1965</data>
+      <data key="v_label">Stachyose</data>
+      <data key="v_name">C01613</data>
+      <data key="v_statistics">0.757396028793024</data>
+    </node>
+    <edge source="n0" target="n3">
+    </edge>
+    <edge source="n2" target="n3">
+    </edge>
+    <edge source="n0" target="n4">
+    </edge>
+    <edge source="n1" target="n4">
+    </edge>
+    <edge source="n3" target="n4">
+    </edge>
+    <edge source="n2" target="n5">
+    </edge>
+    <edge source="n4" target="n6">
+    </edge>
+    <edge source="n0" target="n7">
+    </edge>
+    <edge source="n3" target="n7">
+    </edge>
+    <edge source="n4" target="n7">
+    </edge>
+  </graph>
+</graphml>
